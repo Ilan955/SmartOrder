@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="Sign In Options"
+        >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="StayLoggedIn"
+            android:title="Always keep me signed in"
+            android:summary="Log in will be automatically"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

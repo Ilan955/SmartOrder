@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.SignUpActivity">
+
+    <TextView
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="50dp"
+        android:fontFamily="sans-serif-black"
+        android:text="New Member"
+        android:textAlignment="center"
+        android:textSize="60dp" />
+
+    <EditText
+        android:id="@+id/FullNameEt"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/banner"
+        android:layout_marginTop="60dp"
+        android:hint="Full Name" />
+
+    <EditText
+        android:id="@+id/PhoneNumberET"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FullNameEt"
+        android:layout_marginTop="20dp"
+        android:hint="Phone Number"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/EmailEt"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/PhoneNumberET"
+        android:layout_marginTop="20dp"
+        android:hint="Email"
+        android:inputType="textEmailAddress" />
+
+
+    <EditText
+        android:id="@+id/PasswordET"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/EmailEt"
+        android:layout_marginTop="20dp"
+        android:hint="Password" />
+
+    <Button
+        android:id="@+id/newMemberbtn"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/PasswordET"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#00C2BB"
+        android:ems="10"
+        android:text="Create New Member"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="24dp"
+
+        />
+</RelativeLayout>

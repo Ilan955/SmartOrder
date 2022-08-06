@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/drawable/delete_item.xml" value="0.37864583333333335" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/activity_home_page.xml" value="0.34010416666666665" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/activity_my_reservations.xml" value="0.3625" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/activity_new_reservation.xml" value="0.34010416666666665" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/activity_settings.xml" value="0.315625" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/activity_success_failure.xml" value="0.24375" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/dialog_frag.xml" value="0.3625" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/fragment_all_reservation.xml" value="0.34010416666666665" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/fragment_full_reservation.xml" value="0.2864583333333333" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/fragment_new_reservation.xml" value="0.49173955296404276" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/fragment_successful_reservation.xml" value="0.32395833333333335" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/menu_x.xml" value="0.3484375" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/menu_x2.xml" value="0.3625" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/recycle_view.xml" value="0.3484375" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/layout/recycle_view_item.xml" value="0.3625" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/menu/menu_x.xml" value="0.3625" />
+        <entry key="..\:/Brauda/Semeter 7/Android1.2/SmartOrd/app/src/main/res/xml/preferences.xml" value="0.315625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

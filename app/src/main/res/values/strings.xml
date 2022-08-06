@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartOrd</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_reservation_txt">We are happy that you want to eat with us! \nTo move forward with your reservation please choose the date you would like to order, the time and the amount of people you will be dining with!\n If there will be a place in the specific time the reservation will be created! \nIf no place found, no worrys, come back and choose another time!</string>
+    <string name="home_desc">Here you will be able to watch your full detailed reservation list, you will be able to delete a reservation that has not been yet, and create new one!\nAll the reservation are stored fat away so you dont have to worry about closing thee application\nIf you have a reservation that will come soon, at least three hours ahead, we will notify you about the reservation so you dont need to be worry at all!</string>
+
+    <string-array name="hours">
+        <item>Select:</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+    </string-array>
+</resources>
